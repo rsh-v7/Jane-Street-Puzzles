@@ -38,7 +38,7 @@ Run either file directly:
 `python JS_08-Algorithm.py`
 
 
-The first one prints the return-count numbers and the final probability. The second one prints the detected probability and how much probability is still unresolved after 777 steps (a tiny bit is left over since the walk can technically run forever, this just tells you how much of the total is still unaccounted for).
+The first one prints the return-count numbers and the final probability. The second one prints the detected probability and how much probability is still unresolved after 7777 steps (a tiny bit is left over since the walk can technically run forever, this just tells you how much of the total is still unaccounted for).
 
 ## Answer
 
